@@ -4,4 +4,4 @@
 
 | Сертификат | Платформа | Дата | Длительность | Файл |
 |---|---|---|---|---|
-| Pre Security Learning Path | TryHackMe | 13 May 2026 | 19h 10m | [Certificate](tryhackme/cybersecuritycertificate-name-2026.png) |
+| Pre Security Learning Path | TryHackMe | 13 May 2026 | 19h 10m | [Certificate](tryhackme/cybersecuritycertificate-name-2026.pdf) |
